@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Ziad Hegazy
 
 <!--
 **ZiadHegazy/ZiadHegazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a software engineer graduated from German University in Cairo and I have  1 year experience in full stack applications development
