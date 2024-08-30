@@ -8,7 +8,7 @@ I am a software engineer graduated from the German university in Cairo, I am cur
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ziad.ayman.5055/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-ayman-00a8171ab/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=linkedin&logoColor=white)](ziadayman9901@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](ziadayman9901@gmail.com)
 
 
 
