@@ -6,8 +6,9 @@ I am a software engineer graduated from the German university in Cairo, I am cur
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/static/v1?label=&message=&color=ffffff&logo=facebook&logoColor=1877F2&style=flat-square)](https://www.facebook.com/ziad.ayman.5055/)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=ffffff&logo=linkedin&logoColor=0077B5&style=flat-square)](https://www.linkedin.com/in/ziad-ayman-00a8171ab/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ziad.ayman.5055/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-ayman-00a8171ab/) 
+
 
 
 # 💻 Tech Stack:
